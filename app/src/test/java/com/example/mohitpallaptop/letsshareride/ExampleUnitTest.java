@@ -1,4 +1,4 @@
-package com.example.mohitpallaptop.demo;
+package com.example.mohitpallaptop.letsshareride;
 
 import org.junit.Test;
 

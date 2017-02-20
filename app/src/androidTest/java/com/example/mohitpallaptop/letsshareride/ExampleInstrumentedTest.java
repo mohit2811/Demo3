@@ -1,4 +1,4 @@
-package com.example.mohitpallaptop.demo;
+package com.example.mohitpallaptop.letsshareride;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
